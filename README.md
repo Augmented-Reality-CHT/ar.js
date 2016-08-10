@@ -4,8 +4,8 @@ OSS AR Javascript Library 4 Browser
 # Install & Run Tenken Application
 ## Install InterstageAR
 1. Install following apk into Android device
-applications/Tenken/mobile_nativeclient/Android/
-2. Start application, and Click on "AR Custom Web Application" (The big red button on top of the screen)
+applications/Tenken/mobile_nativeclient/Android/OSSFJAR_20160808.apk
+2. Start application, and Click on "AR Custom Web Application"
 
 ## Setup InterstageAR
 1. In "Server URL", set https://sv0.augmentedreality.jp.fujitsu.com/app/tenken/index.html
